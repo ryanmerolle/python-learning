@@ -27,16 +27,18 @@
          3. Variables beginning with _some, __some, or __some__ are special
 
 # V. Strings.
-    A. Dynamically Typed Language
-    B. String assignment - single quotes, double quotes, triple quotes
-    C. Characteristics of strings
-        1. Accessing individual letters
-        2. Strings are immutable
-    D. Raw strings
-    E. Unicode strings
-    F. String methods
-        1. strip()
-        2. split()
-        3. join()
-   G. Using help() and dir()
-   H. Substring in String
+     A. Dynamically Typed Language
+     B. String assignment - single quotes, double quotes, triple quotes
+     C. Characteristics of strings
+           1. Accessing individual letters
+           2. Strings are immutable
+     D. Raw strings
+     E. Unicode strings
+     F. String methods
+           1. strip()
+           2. split()
+           3. join()
+     G. Using help() and dir()
+     H. Substring in String
+     
+     
