@@ -26,7 +26,7 @@
          2. Variable names are case-sensitive
          3. Variables beginning with _some, __some, or __some__ are special
 
-# V. Strings.
+# V. Strings
      A. Dynamically Typed Language
      B. String assignment - single quotes, double quotes, triple quotes
      C. Characteristics of strings
