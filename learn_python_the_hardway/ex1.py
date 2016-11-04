@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 # Exercise1
+# https://learnpythonthehardway.org/book/ex1.html
 
 print "Hello World!"
 print "Hello Again"
