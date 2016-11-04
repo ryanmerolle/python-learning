@@ -1,16 +1,16 @@
-~~ # I. Introduction~~
+# I. Introduction
     A. About Me
     B. Purpose of the course
     C. Logistics
     D. Feedback
     E. Balance for various levels of existing skills
 
-~~ # II. Some Questions~~
+# II. Some Questions
     A. Why learn programming at all?
     B. Why Python?
     C. Python2 vs Python3
 
-~~ # III. What is the nature of Python?~~
+# III. What is the nature of Python?
      A. The Zen of Python (try "import this" at the Python interpreter shell)
 
 # IV. Interpreter Shell, Variables, and Assignment
