@@ -1,0 +1,16 @@
+
+# This is just notes about naming conventions and comments
+
+# For variable, function, object, and modules names should be lower case nd seperate words by underscores
+
+network_device # this is a variable
+find_bgp_peers
+
+# For class names, capitalize the first letter of each word and do not use underscores or spaces
+
+UserProfile
+
+# For constants, use all upper case and seperate words by underscores
+
+PI = 3.14
+EMAIL_MODE
