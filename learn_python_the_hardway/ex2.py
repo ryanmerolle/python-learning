@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 
-# Exercise2
-# https://learnpythonthehardway.org/book/ex1.html
+# Exercise 2 LPTHW
+# https://learnpythonthehardway.org/book/ex2.html
 
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
+# Multiple line comments can only be handled with a leading pound on each line
 
 print "I could have code like this." # and the comment after is ignored
 
@@ -12,3 +13,6 @@ print "I could have code like this." # and the comment after is ignored
 # print "This won't run."
 
 print "This will run."
+
+print "Hi # there." # pounds inside strings are apart of the string and not used as a comment
+

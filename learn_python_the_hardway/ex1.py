@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Exercise1
+# Exercise 1 LPTHW
 # https://learnpythonthehardway.org/book/ex1.html
 
 print "Hello World!"
