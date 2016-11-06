@@ -3,7 +3,7 @@
 I will be following along the python self learning guide at https://learnpythonthehardway.org/book/
 
 **This is not my material.  I am only following along with the book.**
-** Material is © 2016 ZED A. SHAW**
+**Material is © 2016 ZED A. SHAW**
 
 ## [Table Of Contents](https://learnpythonthehardway.org/book/ "Table Of Contents")
 
