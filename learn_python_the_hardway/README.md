@@ -7,19 +7,19 @@ I will be following along the python self learning guide at https://learnpythont
 
 ## [Table Of Contents](https://learnpythonthehardway.org/book/ "Table Of Contents")
 
-* [Preface](https://learnpythonthehardway.org/book/preface.html "Preface")
-* [Introduction: The Hard Way Is Easier](https://learnpythonthehardway.org/book/intro.html "Introduction")
-* [Exercise 0: The Setup](https://learnpythonthehardway.org/book/ex0.html "Exercise 0")
-* [Exercise 1: A Good First Program](https://learnpythonthehardway.org/book/ex1.html "Exercise 1")
-* [Exercise 2: Comments And Pound Characters](https://learnpythonthehardway.org/book/ex2.html "Exercise 2")
-* [Exercise 3: Numbers And Math](https://learnpythonthehardway.org/book/ex3.html "Exercise 3")
-* [Exercise 4: Variables And Names](https://learnpythonthehardway.org/book/ex4.html "Exercise 4")
-* [Exercise 5: More Variables And Printing](https://learnpythonthehardway.org/book/ex5.html "Exercise 5")
-* [Exercise 6: Strings And Text](https://learnpythonthehardway.org/book/ex6.html "Exercise 6")
-* [Exercise 7: More Printing](https://learnpythonthehardway.org/book/ex7.html "Exercise 7")
-* [Exercise 8: Printing, Printing](https://learnpythonthehardway.org/book/ex8.html "Exercise 8")
-* [Exercise 9: Printing, Printing, Printing](https://learnpythonthehardway.org/book/ex9.html "Exercise 9")
-* [Exercise 10: What Was That?](https://learnpythonthehardway.org/book/ex10.html "Exercise 10")
+* ~~Preface](https://learnpythonthehardway.org/book/preface.html "Preface")~~
+* ~~Introduction: The Hard Way Is Easier](https://learnpythonthehardway.org/book/intro.html "Introduction")~~
+* ~~Exercise 0: The Setup](https://learnpythonthehardway.org/book/ex0.html "Exercise 0")~~
+* ~~Exercise 1: A Good First Program](https://learnpythonthehardway.org/book/ex1.html "Exercise 1")~~
+* ~~Exercise 2: Comments And Pound Characters](https://learnpythonthehardway.org/book/ex2.html "Exercise 2")~~
+* ~~Exercise 3: Numbers And Math](https://learnpythonthehardway.org/book/ex3.html "Exercise 3")~~
+* ~~Exercise 4: Variables And Names](https://learnpythonthehardway.org/book/ex4.html "Exercise 4")~~
+* ~~Exercise 5: More Variables And Printing](https://learnpythonthehardway.org/book/ex5.html "Exercise 5")~~
+* ~~Exercise 6: Strings And Text](https://learnpythonthehardway.org/book/ex6.html "Exercise 6")~~
+* ~~Exercise 7: More Printing](https://learnpythonthehardway.org/book/ex7.html "Exercise 7")~~
+* ~~Exercise 8: Printing, Printing](https://learnpythonthehardway.org/book/ex8.html "Exercise 8")~~
+* ~~Exercise 9: Printing, Printing, Printing](https://learnpythonthehardway.org/book/ex9.html "Exercise 9")~~
+* ~~Exercise 10: What Was That?](https://learnpythonthehardway.org/book/ex10.html "Exercise 10")~~
 * [Exercise 11: Asking Questions](https://learnpythonthehardway.org/book/ex11.html "Exercise 11")
 * [Exercise 12: Prompting People](https://learnpythonthehardway.org/book/ex12.html "Exercise 12")
 * [Exercise 13: Parameters, Unpacking, Variables](https://learnpythonthehardway.org/book/ex13.html "Exercise 13")
