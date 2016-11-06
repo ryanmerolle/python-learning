@@ -62,6 +62,6 @@ I will be following along the python self learning guide at https://learnpythont
 * [Exercise 50: Your First Website](https://learnpythonthehardway.org/book/ex50.html "Exercise 50")
 * [Exercise 51: Getting Input From A Browser](https://learnpythonthehardway.org/book/ex51.html "Exercise 51")
 * [Exercise 52: The Start Of Your Web Game](https://learnpythonthehardway.org/book/ex52.html "Exercise 52")
-* [Advice From An Old Programmer](hhttps://learnpythonthehardway.org/book/advice.html "Advice From An Old Programmer")
+* [Advice From An Old Programmer](https://learnpythonthehardway.org/book/advice.html "Advice From An Old Programmer")
 * [Next Steps](https://learnpythonthehardway.org/book/next.html "Next Steps")
 * [Appendix A: Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html "Appendix A: Command Line Crash Course")
