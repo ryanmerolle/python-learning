@@ -24,4 +24,4 @@ file_again = raw_input ("> ")
 txt_again = open(file_again)
 
 # print file contents based on variable txt_again which is provided as as a raw_input
-print txt_again.read()
+print file_again.read()
