@@ -20,14 +20,14 @@ I will be following along the python self learning guide at https://learnpythont
 * ~~[Exercise 8: Printing, Printing](https://learnpythonthehardway.org/book/ex8.html "Exercise 8")~~
 * ~~[Exercise 9: Printing, Printing, Printing](https://learnpythonthehardway.org/book/ex9.html "Exercise 9")~~
 * ~~[Exercise 10: What Was That?](https://learnpythonthehardway.org/book/ex10.html "Exercise 10")~~
-* [Exercise 11: Asking Questions](https://learnpythonthehardway.org/book/ex11.html "Exercise 11")
-* [Exercise 12: Prompting People](https://learnpythonthehardway.org/book/ex12.html "Exercise 12")
-* [Exercise 13: Parameters, Unpacking, Variables](https://learnpythonthehardway.org/book/ex13.html "Exercise 13")
-* [Exercise 14: Prompting And Passing](https://learnpythonthehardway.org/book/ex14.html "Exercise 14")
-* [Exercise 15: Reading Files](https://learnpythonthehardway.org/book/ex15.html "Exercise 15")
-* [Exercise 16: Reading And Writing Files](https://learnpythonthehardway.org/book/ex16.html "Exercise 16")
-* [Exercise 17: More Files](https://learnpythonthehardway.org/book/ex17.html "Exercise 17")
-* [Exercise 18: Names, Variables, Code, Functions](https://learnpythonthehardway.org/book/ex18.html "Exercise 18")
+* ~~[Exercise 11: Asking Questions](https://learnpythonthehardway.org/book/ex11.html "Exercise 11")~~
+* ~~[Exercise 12: Prompting People](https://learnpythonthehardway.org/book/ex12.html "Exercise 12")~~
+* ~~[Exercise 13: Parameters, Unpacking, Variables](https://learnpythonthehardway.org/book/ex13.html "Exercise 13")~~
+* ~~[Exercise 14: Prompting And Passing](https://learnpythonthehardway.org/book/ex14.html "Exercise 14")~~
+* ~~[Exercise 15: Reading Files](https://learnpythonthehardway.org/book/ex15.html "Exercise 15")~~
+* ~~[Exercise 16: Reading And Writing Files](https://learnpythonthehardway.org/book/ex16.html "Exercise 16")~~
+* ~~[Exercise 17: More Files](https://learnpythonthehardway.org/book/ex17.html "Exercise 17")~~
+* ~~[Exercise 18: Names, Variables, Code, Functions](https://learnpythonthehardway.org/book/ex18.html "Exercise 18")~~
 * [Exercise 19: Functions And Variables](https://learnpythonthehardway.org/book/ex19.html "Exercise 19")
 * [Exercise 20: Functions And Files](https://learnpythonthehardway.org/book/ex20.html "Exercise 20")
 * [Exercise 21: Functions Can Return Something](https://learnpythonthehardway.org/book/ex21.html "Exercise 21")
