@@ -28,7 +28,7 @@ I will be following along the python self learning guide at https://learnpythont
 * ~~[Exercise 16: Reading And Writing Files](https://learnpythonthehardway.org/book/ex16.html "Exercise 16")~~
 * ~~[Exercise 17: More Files](https://learnpythonthehardway.org/book/ex17.html "Exercise 17")~~
 * ~~[Exercise 18: Names, Variables, Code, Functions](https://learnpythonthehardway.org/book/ex18.html "Exercise 18")~~
-* [Exercise 19: Functions And Variables](https://learnpythonthehardway.org/book/ex19.html "Exercise 19")
+* ~~[Exercise 19: Functions And Variables](https://learnpythonthehardway.org/book/ex19.html "Exercise 19")~~
 * [Exercise 20: Functions And Files](https://learnpythonthehardway.org/book/ex20.html "Exercise 20")
 * [Exercise 21: Functions Can Return Something](https://learnpythonthehardway.org/book/ex21.html "Exercise 21")
 * [Exercise 22: What Do You Know So Far?](https://learnpythonthehardway.org/book/ex22.html "Exercise 22")
